@@ -28,5 +28,5 @@ Comparing two candidates is implemented on the area size of the bigger cell. The
 
 In the beginning there are probably only a small number of data points.  Cell areas should be kept bigger to have more values in cells.
 
-<a href="comparing.png"><img src=“comparing.png" align="left" height="333" width="400" alt="Comparing example"></a>
+![comparing](comparing.png)
 
